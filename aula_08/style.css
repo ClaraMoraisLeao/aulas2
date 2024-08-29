@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+.box{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(18, 114, 143);
+}
+
+p{
+    background-color: rgba(136, 50, 86, 0.4); 
+    color: #fff;
+    font-size: 36px; /* Altera o tamanho da fonte */
+    font-weight: 400; /*Altera a espessura da fonte */
+    font-family:"Sevillana", cursive; 
+    text-decoration: overline;
+}
